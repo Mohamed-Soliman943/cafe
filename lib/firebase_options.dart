@@ -47,8 +47,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAtAEHoN9ZucukEX9IRLscxLjAQrCDngD8',
-    appId: '1:982946553883:web:b5e3cdf15b4fdd752658be',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '982946553883',
     projectId: 'cafe-d0a51',
     authDomain: 'cafe-d0a51.firebaseapp.com',
@@ -57,15 +57,15 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBDOvPbZ8pNRGG8VArQYwkISN9MZBu0rYk',
-    appId: '1:982946553883:android:721eea206580ab702658be',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '982946553883',
     projectId: 'cafe-d0a51',
     storageBucket: 'cafe-d0a51.firebasestorage.app',
   );
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAGqA0jtftPyUdqBzptkVJM_divlf6abis',
-    appId: '1:982946553883:ios:72dbb7ce938df1ee2658be',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '982946553883',
     projectId: 'cafe-d0a51',
     storageBucket: 'cafe-d0a51.firebasestorage.app',
